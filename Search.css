@@ -1,0 +1,32 @@
+.search-form{
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+}
+
+.search-form input[type="text"]{
+    width:350px;
+    height: 30px;
+    border-radius:2%;
+    font-weight:600;
+}
+.search-form input[type="text"]:hover{
+    width:550px;
+    height: 30px;
+    border-radius:2%;
+    color:brown;
+    background-color: antiquewhite;
+    font-size: medium;
+    font-weight:600;
+}
+.search-form button{
+    width:39px;
+    height: 34px;
+    border-radius:5%;
+    color:brown;
+    font-weight:600;
+}
+.mycard{
+    display:inline-block;
+    padding-left: 30px;
+}
